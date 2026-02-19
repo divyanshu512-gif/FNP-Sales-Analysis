@@ -1,3 +1,7 @@
 # FNP-Sales-Analysis
 
-This project build a comprehensive structured analytical dashboard of FNP. In this project, we are going to explore different types of data sets and use ETL (Extract Tansfer Load) to arrange data. And cleaning data set, taking out the useful information and creating a dashboard that help the managment to take appropriate decesion.
+This project presents a comprehensive sales analysis dashboard for FNP (Ferns N Petals). The objective is to analyze sales data using the ETL (Extract, Transform, Load) process to clean, structure, and extract meaningful insights from raw datasets.
+
+The project focuses on data cleaning, transformation, and visualization to identify key performance indicators such as revenue trends, customer behavior, product performance, and seasonal demand patterns.
+
+An interactive dashboard has been developed to support data-driven decision-making and help management optimize sales strategies.

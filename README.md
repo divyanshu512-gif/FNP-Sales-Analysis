@@ -1,3 +1,3 @@
 # FNP-Sales-Analysis
 
-This project build a comparehsive
+This project build a comprehensive 

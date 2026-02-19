@@ -1,3 +1,3 @@
 # FNP-Sales-Analysis
 
-This project build a comprehensive structured analytical dashboard of FNP. In this project, we are going explore
+This project build a comprehensive structured analytical dashboard of FNP. In this project, we are going explore different

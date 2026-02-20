@@ -7,3 +7,5 @@ The project focuses on data cleaning, transformation, and visualization to ident
 An interactive dashboard has been developed to support data-driven decision-making and help management optimize sales strategies.
 
 ---
+
+## Business

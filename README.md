@@ -5,3 +5,5 @@ This project presents a comprehensive sales analysis dashboard for FNP (Ferns N 
 The project focuses on data cleaning, transformation, and visualization to identify key performance indicators such as revenue trends, customer behavior, product performance, and seasonal demand patterns.
 
 An interactive dashboard has been developed to support data-driven decision-making and help management optimize sales strategies.
+
+---

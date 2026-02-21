@@ -10,7 +10,7 @@ An interactive dashboard has been developed to support data-driven decision-maki
 
 ## Problem Statement of Ferns and Petals Sales Analysis
 
-You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha bandhan
+You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha bandhan,
 
 
 

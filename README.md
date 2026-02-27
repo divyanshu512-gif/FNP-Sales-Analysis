@@ -13,3 +13,5 @@ An interactive dashboard has been developed to support data-driven decision-maki
 You have been given a dataset from FNP (Ferns and Petals) that specializes in sending gifts for various occasions like Diwali, Raksha bandhan, Holi, Valentine's Day, Birthdays and Anniversaries. The dataset contains details about the products, orders, customers and relevant dates. Your task is to analyze this dataset to uncover key insights related to sales trends, customer behavior and product performance.
 
 create a dashboard to help the company improve its sales strategy and optimize customer satisfaction.
+
+---

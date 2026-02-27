@@ -15,3 +15,5 @@ You have been given a dataset from FNP (Ferns and Petals) that specializes in se
 create a dashboard to help the company improve its sales strategy and optimize customer satisfaction.
 
 ---
+
+## Business 

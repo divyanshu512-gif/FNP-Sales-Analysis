@@ -22,4 +22,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **2**. **Average Order and Delivery Time**: Evaluate the time taken for orders to be delivered.
 
-**3**
+**3**.

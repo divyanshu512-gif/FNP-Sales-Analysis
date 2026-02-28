@@ -20,4 +20,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **1**. **Total Revenue**: Identify the overall revenue.
 
-**2**
+**2**.

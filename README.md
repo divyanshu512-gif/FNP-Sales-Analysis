@@ -24,4 +24,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **3**. **Monthly Sales Performance**: Examine how sales fluctuate across the months of 2023.
 
-**4**. **Top Products by Revenue**: Determine
+**4**. **Top Products by Revenue**: Determine which

@@ -26,4 +26,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **4**. **Top Products by Revenue**: Determine which products are the top revenue generators.
 
-**5**. **Customer Spending Analysis**: Understand how much customers are spending on
+**5**. **Customer Spending Analysis**: Understand how much customers are spending on average

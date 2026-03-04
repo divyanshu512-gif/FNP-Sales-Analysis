@@ -30,4 +30,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **6**. **Sales Performance by Top 5 Product**: Track the sales performance of top 5 products.
 
-**7**
+**7**.

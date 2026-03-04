@@ -28,4 +28,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **5**. **Customer Spending Analysis**: Understand how much customers are spending on average.
 
-**6**. **Sales Performance by Top 5 Product**: Track the sales performance of top 5 products
+**6**. **Sales Performance by Top 5 Product**: Track the sales performance of top 5 products.

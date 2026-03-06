@@ -32,4 +32,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **7**. **Top 10 Cities by Number of Orders**: Find out which cities are placing the highest number of orders.
 
-**8**. **Order Quantity vs Delivery Time**: 
+**8**. **Order Quantity vs Delivery Time**: Analyze

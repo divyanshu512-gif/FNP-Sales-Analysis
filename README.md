@@ -36,4 +36,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **9**. **Revenue Comparison Between Occasions**: Compare revenue generated across different occasions.
 
-**10**. **Product Popularity by Occasion**: Identify which products are most popular
+**10**. **Product Popularity by Occasion**: Identify which products are most popular during

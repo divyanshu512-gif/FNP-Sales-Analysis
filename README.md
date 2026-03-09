@@ -38,4 +38,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **10**. **Product Popularity by Occasion**: Identify which products are most popular during specific occasions.
 
-**11**.
+**11**

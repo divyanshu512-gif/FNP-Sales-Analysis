@@ -46,5 +46,5 @@ create a dashboard to help the company improve its sales strategy and optimize c
     - **Rows**: 101
 
   - **Features**
-   - **Customer id**
-   - **name** 
+    - **Customer id**
+    - **name** 

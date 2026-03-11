@@ -51,7 +51,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
   | **Customer id** | **Order id** | **Product id** |
   | --------------- | ------------ | -------------  |
   |   **Name**      | **Customer id** | **Product name** |                            
-  |   **City**      | **Product id**  | **Category**
+  |   **City**      | **Product id**  | **Category**     |
     - **Contact**
     - **Email**
     - **Gender**

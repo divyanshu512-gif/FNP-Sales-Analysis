@@ -44,7 +44,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
   | **Customer** | **Orders** | **Products** |
   | ------------ | ---------- | ------------ |
   |   **Columns**: 7 | **Columns**: 10 | **Columns**: 6 |
-  |   **Rows**: 101  | **Rows**: 1001 | **Rows**: |
+  |   **Rows**: 101  | **Rows**: 1001 | **Rows**: 70 |
 
   - **Features**
     - **Customer id**

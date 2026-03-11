@@ -41,7 +41,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
 ---
 
 ## Data Summary
-  - **Customer**
+  | **Customer** | ****
     - **Columns**: 7
     - **Rows**: 101
 

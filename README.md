@@ -54,5 +54,5 @@ create a dashboard to help the company improve its sales strategy and optimize c
   |   **City**      | **Product id**  | **Category**     |
   |   **Contact**   | **Quantity**    | **Price**        |
   |   **Email**     | **Order Date**  | **Occasion**     |
-    - **Gender**
+     **Gender**
     - **Address**  

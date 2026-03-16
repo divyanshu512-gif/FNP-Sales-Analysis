@@ -64,7 +64,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
   
 ## FNP Data Analysis(Extracting Information)
 
-![image]()
+![image](https://github.com/divyanshu512-gif/FNP-Sales-Analysis/blob/main/Image/FNP_Sales_Analysis.png)
 
 **1**. The total revenue of FNP is ₹ **35,20,984.00**.
 

@@ -69,3 +69,5 @@ create a dashboard to help the company improve its sales strategy and optimize c
 **1**. The total revenue of FNP is ₹ **35,20,984.00**.
 
 **2**. The average time taken to delivery a product is **5 days**.
+
+****

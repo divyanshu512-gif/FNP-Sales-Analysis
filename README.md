@@ -70,4 +70,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **2**. The average time taken to delivery a product is **5 days**.
 
-**3**. In year 2023
+**3**. In year 2023 the 

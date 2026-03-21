@@ -70,5 +70,5 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **2**. The average time taken to delivery a product is **5 days**.
 
-**3**. In year 2023, the sales of FNP between january to april was high after it sales was flatish-low from april to july. From july to september the sales was the highest in this year and between september to october sales was low-flatish. Then sales stated growing from october and continue in the month of november after it sales started decline till december.
+**3**. In 2023, FNP’s sales were strong from January to April. This was followed by a relatively flat and lower performance from April to July. Sales then peaked between July and September, marking the highest period of the year. From September to October, sales again remained low and stable. Starting in October, sales began to increase and continued to grow through November. However, after November, sales declined and continued to decrease through December.
 

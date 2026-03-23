@@ -72,5 +72,6 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **3**. In 2023, FNP’s sales were strong from January to April. This was followed by a relatively flat and lower performance from April to July. Sales then peaked between July and September, marking the highest period of the year. From September to October, sales again remained low and stable. Starting in October, sales began to increase and continued to grow through November. However, after November, sales declined and continued to decrease through December.
 
-**4**. Top 5 products of FNP on basis revenue in descending order. 
+**4**. Top 5 products of FNP on basis revenue in descending order.
+       - 
       

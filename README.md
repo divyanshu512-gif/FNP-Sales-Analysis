@@ -80,4 +80,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
  -  Hamur Pack
  -  Deserunt Box
       
-**5**. The average spending
+**5**. The average spending of

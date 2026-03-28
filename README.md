@@ -82,4 +82,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
       
 **5**. The average spending of customer is ₹ **3521**.
 
-**6**. Among the product categories here are top 5 product of FNP. Colors are the top most demanded product
+**6**. Among the product categories here are top 5 product of FNP. Colors are the top most demanded product of

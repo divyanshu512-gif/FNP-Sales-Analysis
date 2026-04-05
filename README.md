@@ -82,7 +82,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
       
 **5**. The average spending of customer is ₹ **3521**.
 
-**6**.
+**6**. Top
 
 **Colors**
 

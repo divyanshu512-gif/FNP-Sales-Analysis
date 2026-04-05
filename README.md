@@ -89,6 +89,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
 Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
 
 **Soft Toys**
+
 Soft toys rank second in demand, with particularly strong popularity among younger consumers. They are commonly purchased as gifts for occasions like birthdays, anniversaries, and romantic celebrations.
 **Sweets**
 Sweets hold the third position, reflecting their cultural significance in India. Demand remains consistently high due to their essential role in festivals, celebrations, and traditional gifting.

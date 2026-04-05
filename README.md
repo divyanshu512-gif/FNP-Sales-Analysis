@@ -83,8 +83,11 @@ create a dashboard to help the company improve its sales strategy and optimize c
 **5**. The average spending of customer is ₹ **3521**.
 
 **6**.
+
 **Colors**
+
 Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
+
 **Soft Toys**
 Soft toys rank second in demand, with particularly strong popularity among younger consumers. They are commonly purchased as gifts for occasions like birthdays, anniversaries, and romantic celebrations.
 **Sweets**

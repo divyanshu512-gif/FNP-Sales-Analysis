@@ -91,5 +91,5 @@ Soft toys rank second in demand, with particularly strong popularity among young
 Sweets hold the third position, reflecting their cultural significance in India. Demand remains consistently high due to their essential role in festivals, celebrations, and traditional gifting.
 **Cakes**
 Cakes rank fourth and have steady demand throughout the year. They are widely used for multiple occasions, including birthdays, anniversaries, and other personal celebrations.
-Raksha Bandhan Products
+**Raksha Bandhan Products**
 Raksha Bandhan-related items (such as rakhis and gift hampers) occupy the fifth position. Their demand is highly seasonal, peaking during the month of August in line with the festival.

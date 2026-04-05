@@ -82,4 +82,14 @@ create a dashboard to help the company improve its sales strategy and optimize c
       
 **5**. The average spending of customer is ₹ **3521**.
 
-**6**. Among the product categories here are top 5 product of FNP. Colors are the top most demanded product of FNP, it is increasing very exponationally. The second most demanded product of FNP is soft toys, it's demand is high in young generation. After soft toys, The third most demanded product is sweets because in india sweets are needed in every household to celebrate festivals. In this ranking the forth position got cake. Cakes are demanded not only for birthday but also for anniversary and other celebration. The 5th most demanded product in FNP is raksha bandhan, thier demand is during month of augest.
+**6**.
+Colors
+Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
+Soft Toys
+Soft toys rank second in demand, with particularly strong popularity among younger consumers. They are commonly purchased as gifts for occasions like birthdays, anniversaries, and romantic celebrations.
+Sweets
+Sweets hold the third position, reflecting their cultural significance in India. Demand remains consistently high due to their essential role in festivals, celebrations, and traditional gifting.
+Cakes
+Cakes rank fourth and have steady demand throughout the year. They are widely used for multiple occasions, including birthdays, anniversaries, and other personal celebrations.
+Raksha Bandhan Products
+Raksha Bandhan-related items (such as rakhis and gift hampers) occupy the fifth position. Their demand is highly seasonal, peaking during the month of August in line with the festival.

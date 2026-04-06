@@ -90,7 +90,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
   - **Sweets**: Sweets hold the third position, reflecting their cultural significance in India. Demand remains consistently high due to their essential role in festivals, celebrations, and traditional gifting.
 
-**Cakes**
+  - **Cakes**
 
 Cakes rank fourth and have steady demand throughout the year. They are widely used for multiple occasions, including birthdays, anniversaries, and other personal celebrations.
 

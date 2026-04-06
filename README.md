@@ -86,7 +86,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **Colors**
 
-Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
+    Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
 
 **Soft Toys**
 

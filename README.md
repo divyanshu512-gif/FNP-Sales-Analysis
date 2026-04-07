@@ -82,7 +82,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
       
 **5**. The average spending of customer is ₹ **3521**.
 
-**6**. Top 5 products by category
+**6**. Top 5 products by category perfomance
 
   - **Colors**: Colors are the most in-demand product category, showing exponential growth over time. This surge is likely driven by seasonal events such as Holi, along with increasing customer engagement in festive purchases.
 

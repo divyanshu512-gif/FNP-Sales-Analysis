@@ -94,4 +94,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
   - **Raksha Bandhan Products**: Raksha Bandhan-related items (such as rakhis and gift hampers) occupy the fifth position. Their demand is highly seasonal, peaking during the month of August in line with the festival.
 
-**7**. Top 10 cities on the basis of
+**7**. Top 10 cities on the basis of order

@@ -96,4 +96,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **7**. Top 10 cities on the basis of orders.
 
-  -
+  - ****

@@ -107,5 +107,5 @@ create a dashboard to help the company improve its sales strategy and optimize c
 - **Bhatpara**
 - **Bilaspur**
 
-**8**. The relation between order quantity andhave nuetral relation 
+**8**. The relation between order quantity and deliveryhave nuetral relation 
 

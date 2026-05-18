@@ -112,6 +112,6 @@ create a dashboard to help the company improve its sales strategy and optimize c
 **9**. The highest revenue generating occasion is **Anniversary**. Second most revenue generating occasion is **Raksha Bandhan**. The third most revenue generating occasion is **All Occasion**. The forth most revenue generating occasion and help FNP for growth is **Holi**. The fifth most revenue generating occasion and help FNP for growth is **Birthday**. The sixth revenue generating occasion and help FNP for growth 
 is **Valentine's Day**. The seventh revenue generating occasion and help FNP for growth is **Diwali**.
 
-**10**.
+**10**. 
 
 

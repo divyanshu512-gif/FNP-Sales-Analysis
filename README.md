@@ -115,6 +115,7 @@ create a dashboard to help the company improve its sales strategy and optimize c
   - **Raksha Bandhan** ranks second, followed by **All Occasions** in third place.
   - **Holi** and **Birthday** contribute moderate revenue growth.
   - **Valentine’s Day** and **Diwali** generate comparatively lower revenue.
+  - Diwali is the lowest revenue-generating occasion among all categories.
 
 
 

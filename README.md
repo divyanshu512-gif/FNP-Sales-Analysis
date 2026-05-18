@@ -111,6 +111,9 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 **9**. Revenue comparition between different occasions.
 
+    - Anniversary is the highest revenue-generating occasion for FNP.
+
+
 **10**. 
 
 

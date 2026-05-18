@@ -113,6 +113,8 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
   - **Anniversary** is the highest revenue-generating occasion for FNP.
   - **Raksha Bandhan** ranks second, followed by **All Occasions** in third place.
+  - Holi and Birthday contribute moderate revenue growth.
+
 
 
 

@@ -117,4 +117,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
   - **Valentine’s Day** and **Diwali** generate comparatively lower revenue.
   - **Diwali** is the lowest revenue-generating occasion among all categories.
 
-## suggestion about
+## suggestion about business

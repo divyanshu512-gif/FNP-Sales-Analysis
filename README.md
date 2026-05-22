@@ -119,4 +119,4 @@ create a dashboard to help the company improve its sales strategy and optimize c
 
 ## suggestion about business of FNP
 
-**1**. FNP is
+**1**. FNP is 
